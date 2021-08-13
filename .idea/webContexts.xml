@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common/forwardpages.xhtml" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager/main.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user/memberInfo.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user/regist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/pages/president/president_activity_list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/pages/president" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/pages/userpage/user_activity_list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/pages/userpage" />
+      </map>
+    </option>
+  </component>
+</project>
